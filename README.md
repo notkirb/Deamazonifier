@@ -1,3 +1,6 @@
+## Archived due to inactivity
+I am archiving projects that I am not going to continue working on, and this is one of them.
+
 ![Icon](Deamazonify_Icn_Small.png)
 # Deamazonifier NT Branch
 A basic program built for Windows that fixes (almost) everything wrong with Amazon Fire tablets
